@@ -1,4 +1,4 @@
-# P's Family secret recipes
+# P's clan secret recipes
 
 Set of recipes as given by my grandma.
 
